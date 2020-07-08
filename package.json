@@ -1,0 +1,8 @@
+{
+  "name": "yamei-gulp-demo",
+  "version": "1.0.0",
+  "description": "yamie-gulp工具",
+  "main": "index.js",
+  "author": "yamei",
+  "license": "MIT"
+}
